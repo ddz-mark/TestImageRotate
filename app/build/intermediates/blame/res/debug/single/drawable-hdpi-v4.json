@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\Test\\ImageDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl.jpg",
+        "source": "E:\\Android\\Test\\ImageDemo\\app\\src\\main\\res\\drawable-hdpi\\girl.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Test\\ImageDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\Test\\ImageDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
